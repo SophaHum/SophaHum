@@ -41,5 +41,6 @@ Here are some of the projects I've been working on:
 
 - **Email**: sopha.humm@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/sopha-hum-b288a419a/
-- **Twitter**:https://x.com/Pha79025413
+- **Twitter**: https://x.com/Pha79025413
+- 
 Thanks for visiting my profile! 😊
