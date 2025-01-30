@@ -1,6 +1,6 @@
 # Hi there, I'm SophaHum! 👋
 
-Welcome to my GitHub profile! I'm a Full Stack Developer specializing in Vue.js, React, and Node.js ecosystems, with a strong focus on building scalable web applications.
+Welcome to my GitHub profile! I'm a Full Stack Developer specializing in React js, Next js, Vue.js,Nuxt js,PHP, Node.js ecosystems, with a strong focus on building scalable web applications.
 
 ## About Me
 
