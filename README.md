@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer specializing in React j
 - 🎓 **Education**: Computer Science graduate from Royal University of Phnom Penh
 - 💼 **Current Role**: Web Developer at Peth Yoeung Co., Ltd
 - 🌱 **Learning**: Currently deepening my knowledge in Vue 3, Nuxt.js, and Cloud Technologies
-- 💬 **Expertise**: Frontend Development, Vue.js, React.js, Node.js, and Database Design
+- 💬 **Expertise**: Frontend Development, Vue.js, React.js, Node.js, and System Design, Database Design, Data structure & Algorithm
 - 📫 **Contact**: sopha.humm@gmail.com
 
 ## My Skills
