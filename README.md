@@ -1,6 +1,6 @@
 # Hi there, I'm SophaHum! 👋
 
-Welcome to my GitHub profile! I'm a Full Stack Developer specializing in React js, Next js, Vue.js, Nuxt js, PHP, Node.js ecosystems, with a strong focus on building scalable web applications.
+Welcome to my GitHub profile! I'm a Full Stack Developer specializing in React js, Next js, Vue.js, Nuxt js,Golang, Python PHP, Node.js ecosystems, with a strong focus on building scalable web applications.
 
 ## About Me
 
@@ -31,16 +31,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer specializing in React j
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   - ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-## Featured Projects
-
-- [**Vue-Supabase**](https://github.com/SophaHum/vue-supabase): A modern web application leveraging Vue.js and Supabase for backend operations. Features authentication, real-time updates, and database integration.
-
-- [**CMS-Blog**](https://github.com/SophaHum/CMS-Blog): A full-featured Content Management System built with Next.js and GraphQL. Includes user authentication, content management, and dynamic routing.
-
-- [**Real-Time-Chat-API**](https://github.com/SophaHum/Real-Time-Chat-API): RESTful API for real-time chat applications built with Node.js and Socket.IO. Implements WebSocket for real-time communication.
-
-- [**Product-Api**](https://github.com/SophaHum/Product-Api): A robust REST API for product management using Node.js and Express. Features CRUD operations, authentication, and data validation.
 
 ## Recent Work
 
