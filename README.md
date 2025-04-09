@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer specializing in React j
 ## About Me
 
 - 🎓 **Education**: Computer Science graduate from Royal University of Phnom Penh
-- 💼 **Current Role**: Web Developer at Peth Yoeung Co., Ltd
+- 💼 **Current Role**:Full Stack Web Developer
 - 🌱 **Learning**: Currently deepening my knowledge in React js , Next js, Python, Golang and CI/CD pipeline
 - 💬 **Expertise**: Frontend Development, React.js, Back-end PHP, Golang, Python and System Design, Data structure & Algorithm
 - 📫 **Contact**: sopha.humm@gmail.com
